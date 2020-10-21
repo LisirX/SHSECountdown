@@ -1,5 +1,5 @@
 body,.main:before,.glass:before{
-    background: url("./cal0i1os.png") 0 / cover fixed;
+    background: url("./background.png") 0 / cover fixed;
 }
 .main{
     position: absolute;
