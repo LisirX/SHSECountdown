@@ -1,5 +1,5 @@
 body,.main:before,.glass:before{
-    background: url("https://cdn.luogu.com.cn/upload/image_hosting/cal0i1os.png") 0 / cover fixed;
+    background: url("./cal0i1os.png") 0 / cover fixed;
 }
 .main{
     position: absolute;
